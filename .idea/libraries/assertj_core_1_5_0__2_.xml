@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="assertj-core-1.5.0 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/assertj-core-1.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-codec-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-io-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang3-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-lang-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-logging-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/commons-pool-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/fastjson-1.1.37.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/guava-15.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpclient-4.3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/httpcore-4.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jedis-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-path-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/json-smart-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/jsoup-1.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-api-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/slf4j-log4j12-1.7.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/webmagic-core-0.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/webmagic-extension-0.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/xsoup-0.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

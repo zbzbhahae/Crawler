@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebMagic.iml" filepath="$PROJECT_DIR$/.idea/modules/WebMagic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebMagic_main.iml" filepath="$PROJECT_DIR$/.idea/modules/WebMagic_main.iml" group="WebMagic" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WebMagic_test.iml" filepath="$PROJECT_DIR$/.idea/modules/WebMagic_test.iml" group="WebMagic" />
+    </modules>
+  </component>
+</project>
